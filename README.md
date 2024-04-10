@@ -1,2 +1,3 @@
 # note-sharing-web-application-
-web application using django
+Note Sharing Web Application using Django Framework-HARINI E(4029-VCTW).
+
